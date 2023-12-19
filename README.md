@@ -4,7 +4,7 @@
 12% done
 # Performance 📈
 So far on intergratted intel graphic on 1.19.2 I get 20 fps on highest settings With the client enabled with highest setttings I currently get 345 fps.
-# Info
+# Info ✎
 Sajid Client is a custom made client with about 50+ Fps improving mods for 1.19.2 and 12 Mods for Visual.
 
 # FAQ 📖
