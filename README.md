@@ -10,8 +10,13 @@ Sajid Client is a custom made client with about 50+ Fps improving mods for 1.19.
 # FAQ 📖
 Q- How to get access to Sajid Client 2.2
 A- Sorry cannot because it is my own private version of the client only I have access to it.
+
+
 Q- When will the first Sajid Client will release
 A- Unfortunately I dont know due to needing premissions from mod creators
+
+
+
 Q- What Version is it on
 A- 1.19.2.
 
