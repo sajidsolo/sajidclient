@@ -1,7 +1,7 @@
 # sajidclient 🔥
 
 # WIP 💥
-5% Complete
+5% Complete  **LOOK AT ISSUE 1**
 # Performance 📈
 So far on intergratted intel graphic on 1.19.2 I get 20 fps on highest settings With the client enabled with highest setttings I currently get 345 fps.
 # Info ✎
